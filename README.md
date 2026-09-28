@@ -543,8 +543,6 @@ Removes the infrastructure managed by this Terraform configuration.
 
 ---
 
----
-
 # ⭐ Summary
 
 This project establishes an AWS-based remote Terraform state architecture using:
